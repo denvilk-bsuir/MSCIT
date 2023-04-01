@@ -1,5 +1,5 @@
-# Lab 4
-
+# Lab 1
+---
 ## How to run
 
 1. Install Python form official website with adding python to PATH
@@ -9,14 +9,12 @@ python -m venv .venv
 ```
 3. Activate virtual environment
 
-Windows CMD:
+- Windows CMD:
 ```cmd
 .venv/bin/activate.bat
 ```
 
-or
-
-Linux(bash)/MacOS
+-  Linux(bash)/MacOS    
 ```bash
 source .venv/bin/activate
 ```
@@ -29,7 +27,7 @@ pip install -r requirements.txt
 5. Install Clang with adding to PATH variable
 6. Run application
 
-To run application `Step 3` must be done.
+- To run application `Step 3` must be done.
 ```bash
 python manage.py runserver
 ```
