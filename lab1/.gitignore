@@ -1,0 +1,10 @@
+*.cpp
+**/__pycache__/
+*.txt
+*.sqlite3
+.vscode/
+.ipynb_checkpoints/
+.venv/
+*.out
+*.ipynb
+
